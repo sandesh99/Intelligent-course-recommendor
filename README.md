@@ -93,6 +93,19 @@ Skipped invalid disliked course numbers: x
 ## Sample Session
 
 ```
+********* Welcome to the Course Recommender CLI ************
+
+Enter your name: Sandesh
+Enter your background (e.g., 'Final-year CS student'): Final Year CS Student
+Enter your interests (comma-separated): AI, ML, Data Science
+Enter your career goals: Become an AI Engineer
+
+--- Menu ---
+1. Get course recommendations
+2. Ask a career/learning question
+3. Exit
+Choose an option: 1
+
 Top 5 courses for you:
 1. Introduction to AI (ai, machine-learning, beginners)
 2. Machine Learning Specialization (machine-learning, data-science)
@@ -100,14 +113,22 @@ Top 5 courses for you:
 4. Data Science Capstone Project (data-science, project)
 5. Generative AI with LLMs (generative-ai, llm, transformers)
 
-Liked courses (comma) or skip: 1,5
-Disliked courses (comma) or skip: 3
+Which ones do you like? Numbers (comma) or skip: 1,5
+Which ones you dislike? Numbers (comma) or skip: 3
 
 Feedback recorded!!
 
+--- Menu ---
+1. Get course recommendations
+2. Ask a career/learning question
+3. Exit
+Choose an option: 2
 Enter your question: Should I learn Python or R for Data Science?
 Answer:
-Python is recommended for most data science workflows including ML, deep learning, and AI. R is better for statistical analysis but less versatile for production ML pipelines.
+ As a final year CS student with interests in AI, ML, and Data Science, learning Python would be more beneficial for you. Python is widely used in the data science community due to its simplicity, versatility, and the vast array of libraries available for data manipulation, machine learning, and AI, such as Pandas, NumPy, Scikit-learn, and TensorFlow. Additionally, many machine learning and AI courses, including those in the Machine Learning Specialization, often use Python for hands-on labs and projects. 
+
+While R is also a powerful tool for statistical analysis and data visualization, Python's popularity and applicability in AI and ML make it a more advantageous choice for your career goals.
+
 ```
 
 
