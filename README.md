@@ -119,3 +119,13 @@ Python is recommended for most data science workflows including ML, deep learnin
 * **Chroma DB** – Stores vectorized knowledge base for RAG retrieval.
 * **Tag-based Feedback** – Adjusts course rankings based on likes/dislikes.
 * **Modular Architecture** – CLI, recommender, embeddings, QA agent separated for maintainability.
+
+---
+
+## Some Possible Improvements
+
+* Implement in-memory caching for frequently queried recommendations to improve latency.
+* Apply chunking for splitting large course datasets into manageable pieces for faster searching.
+* Instead of just retrieving the top courses, generate short LLM-based summaries of why each course is recommended.
+* Implement GraphRAG to recommend not only based on text similarity but also based on relationships.
+* After the recommender retrieves top courses via embeddings, pass both the user profile and the retrieved course list to an LLM acting as a judge to assign a relevance score to each course.
