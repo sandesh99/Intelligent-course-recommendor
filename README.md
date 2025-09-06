@@ -18,16 +18,15 @@ A lightweight Python CLI tool to provide **personalized course recommendations**
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/course-recommender.git
-cd course-recommender
+git clone https://github.com/sandesh99/Intelligent-course-recommendor.git
+cd IntelligentCourseRecommendor
 ```
 
 2. Create a virtual environment and install dependencies:
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate   # Linux/macOS
-.venv\Scripts\activate      # Windows
+source .venv/bin/activate   
 pip install -r requirements.txt
 ```
 
