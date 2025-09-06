@@ -19,7 +19,7 @@ A lightweight Python CLI tool to provide **personalized course recommendations**
 
 ```bash
 git clone https://github.com/sandesh99/Intelligent-course-recommendor.git
-cd IntelligentCourseRecommendor
+cd Intelligent-course-recommendor
 ```
 
 2. Create a virtual environment and install dependencies:
