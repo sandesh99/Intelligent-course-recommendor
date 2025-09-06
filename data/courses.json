@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "title": "Machine Learning Specialization",
+    "provider": "Coursera",
+    "description": "Learn supervised, unsupervised learning, and ML pipelines from Andrew Ng.",
+    "skill_level": "Intermediate",
+    "tags": ["machine-learning", "data-science", "python"]
+  },
+  {
+    "id": "2",
+    "title": "Deep Learning Specialization",
+    "provider": "Coursera",
+    "description": "Covers deep neural networks, CNNs, RNNs, and sequence models.",
+    "skill_level": "Intermediate",
+    "tags": ["deep-learning", "neural-networks", "ai"]
+  },
+  {
+    "id": "3",
+    "title": "Data Science Fundamentals with Python and SQL",
+    "provider": "edX",
+    "description": "Covers Python, SQL, data analysis, and visualization techniques.",
+    "skill_level": "Beginner",
+    "tags": ["data-science", "python", "sql"]
+  },
+  {
+    "id": "4",
+    "title": "Python for Everybody",
+    "provider": "Coursera",
+    "description": "Learn Python basics including functions, loops, and web scraping.",
+    "skill_level": "Beginner",
+    "tags": ["python", "programming", "beginner"]
+  },
+  {
+    "id": "5",
+    "title": "Full-Stack Web Development Bootcamp",
+    "provider": "Udemy",
+    "description": "HTML, CSS, JavaScript, React, Node.js, and databases.",
+    "skill_level": "Intermediate",
+    "tags": ["web-development", "react", "nodejs"]
+  },
+  {
+    "id": "6",
+    "title": "Frontend Development with React",
+    "provider": "Udemy",
+    "description": "Learn React.js, hooks, state management, and deployment.",
+    "skill_level": "Intermediate",
+    "tags": ["react", "frontend", "javascript"]
+  },
+  {
+    "id": "7",
+    "title": "Backend Development with Node.js and Express",
+    "provider": "Udemy",
+    "description": "Learn REST APIs, authentication, and MongoDB with Node.js.",
+    "skill_level": "Intermediate",
+    "tags": ["nodejs", "backend", "api"]
+  },
+  {
+    "id": "8",
+    "title": "AWS Cloud Practitioner Essentials",
+    "provider": "Coursera",
+    "description": "Learn basics of AWS cloud, services, and architecture.",
+    "skill_level": "Beginner",
+    "tags": ["aws", "cloud", "devops"]
+  },
+  {
+    "id": "9",
+    "title": "Google Cloud Fundamentals",
+    "provider": "Coursera",
+    "description": "Introduction to Google Cloud services and deployment models.",
+    "skill_level": "Beginner",
+    "tags": ["gcp", "cloud", "infrastructure"]
+  },
+  {
+    "id": "10",
+    "title": "Microsoft Azure Fundamentals",
+    "provider": "edX",
+    "description": "Covers Azure cloud services and infrastructure basics.",
+    "skill_level": "Beginner",
+    "tags": ["azure", "cloud", "devops"]
+  },
+  {
+    "id": "11",
+    "title": "Kubernetes for Beginners",
+    "provider": "Udemy",
+    "description": "Learn container orchestration using Kubernetes.",
+    "skill_level": "Intermediate",
+    "tags": ["kubernetes", "devops", "cloud"]
+  },
+  {
+    "id": "12",
+    "title": "Docker Mastery",
+    "provider": "Udemy",
+    "description": "Learn containerization using Docker, Docker Compose, and Docker Swarm.",
+    "skill_level": "Intermediate",
+    "tags": ["docker", "containers", "devops"]
+  },
+  {
+    "id": "13",
+    "title": "Cybersecurity Fundamentals",
+    "provider": "edX",
+    "description": "Basics of cybersecurity, encryption, and risk management.",
+    "skill_level": "Beginner",
+    "tags": ["cybersecurity", "network", "security"]
+  },
+  {
+    "id": "14",
+    "title": "Ethical Hacking for Beginners",
+    "provider": "Udemy",
+    "description": "Learn penetration testing and ethical hacking basics.",
+    "skill_level": "Beginner",
+    "tags": ["ethical-hacking", "security", "pentesting"]
+  },
+  {
+    "id": "15",
+    "title": "Data Structures and Algorithms in Python",
+    "provider": "Udemy",
+    "description": "Learn problem-solving using Python DS & Algo.",
+    "skill_level": "Intermediate",
+    "tags": ["python", "algorithms", "data-structures"]
+  },
+  {
+    "id": "16",
+    "title": "Introduction to Artificial Intelligence",
+    "provider": "edX",
+    "description": "Fundamentals of AI, history, and applications.",
+    "skill_level": "Beginner",
+    "tags": ["ai", "machine-learning", "beginners"]
+  },
+  {
+    "id": "17",
+    "title": "Natural Language Processing with Python",
+    "provider": "Coursera",
+    "description": "Learn text processing, sentiment analysis, and transformers.",
+    "skill_level": "Intermediate",
+    "tags": ["nlp", "python", "machine-learning"]
+  },
+  {
+    "id": "18",
+    "title": "Computer Vision with TensorFlow",
+    "provider": "Coursera",
+    "description": "Learn CNNs, image classification, and object detection.",
+    "skill_level": "Intermediate",
+    "tags": ["computer-vision", "deep-learning", "tensorflow"]
+  },
+  {
+    "id": "19",
+    "title": "Big Data with Hadoop and Spark",
+    "provider": "edX",
+    "description": "Learn distributed data processing using Hadoop and Spark.",
+    "skill_level": "Intermediate",
+    "tags": ["big-data", "spark", "hadoop"]
+  },
+  {
+    "id": "20",
+    "title": "SQL for Data Analysis",
+    "provider": "Coursera",
+    "description": "Learn SQL queries, joins, and aggregations for analytics.",
+    "skill_level": "Beginner",
+    "tags": ["sql", "data-analysis", "database"]
+  },
+  {
+    "id": "21",
+    "title": "Excel for Business Analytics",
+    "provider": "Udemy",
+    "description": "Learn Excel functions, pivot tables, and dashboards.",
+    "skill_level": "Beginner",
+    "tags": ["excel", "business", "analytics"]
+  },
+  {
+    "id": "22",
+    "title": "Business Analytics with R",
+    "provider": "edX",
+    "description": "Learn business decision-making using R.",
+    "skill_level": "Intermediate",
+    "tags": ["r", "business", "analytics"]
+  },
+  {
+    "id": "23",
+    "title": "Tableau for Data Visualization",
+    "provider": "Coursera",
+    "description": "Learn interactive dashboards and visual storytelling.",
+    "skill_level": "Beginner",
+    "tags": ["tableau", "visualization", "data-analysis"]
+  },
+  {
+    "id": "24",
+    "title": "Power BI for Beginners",
+    "provider": "Udemy",
+    "description": "Create interactive BI dashboards with Power BI.",
+    "skill_level": "Beginner",
+    "tags": ["powerbi", "business-intelligence", "visualization"]
+  },
+  {
+    "id": "25",
+    "title": "DevOps Foundations",
+    "provider": "Coursera",
+    "description": "Learn CI/CD, automation, and DevOps tools.",
+    "skill_level": "Beginner",
+    "tags": ["devops", "ci-cd", "automation"]
+  },
+  {
+    "id": "26",
+    "title": "Agile Project Management",
+    "provider": "edX",
+    "description": "Learn Scrum, Kanban, and Agile methodologies.",
+    "skill_level": "Beginner",
+    "tags": ["agile", "project-management", "scrum"]
+  },
+  {
+    "id": "27",
+    "title": "Blockchain Basics",
+    "provider": "Coursera",
+    "description": "Introduction to blockchain technology and use cases.",
+    "skill_level": "Beginner",
+    "tags": ["blockchain", "cryptocurrency", "distributed-systems"]
+  },
+  {
+    "id": "28",
+    "title": "Introduction to Quantum Computing",
+    "provider": "edX",
+    "description": "Covers basics of qubits, quantum gates, and algorithms.",
+    "skill_level": "Intermediate",
+    "tags": ["quantum-computing", "physics", "advanced"]
+  },
+  {
+    "id": "29",
+    "title": "Linux Command Line Basics",
+    "provider": "Udemy",
+    "description": "Learn shell scripting, file management, and permissions.",
+    "skill_level": "Beginner",
+    "tags": ["linux", "shell", "sysadmin"]
+  },
+  {
+    "id": "30",
+    "title": "Git and GitHub for Developers",
+    "provider": "Coursera",
+    "description": "Learn version control, branching, and collaboration.",
+    "skill_level": "Beginner",
+    "tags": ["git", "github", "version-control"]
+  },
+  {
+    "id": "31",
+    "title": "Artificial Intelligence for Business",
+    "provider": "Coursera",
+    "description": "Learn how AI is applied in business contexts.",
+    "skill_level": "Intermediate",
+    "tags": ["ai", "business", "analytics"]
+  },
+  {
+    "id": "32",
+    "title": "Applied Data Science with Python",
+    "provider": "Coursera",
+    "description": "Learn applied machine learning and visualization using Python.",
+    "skill_level": "Intermediate",
+    "tags": ["python", "data-science", "machine-learning"]
+  },
+  {
+    "id": "33",
+    "title": "Cloud Computing with AWS and Azure",
+    "provider": "Udemy",
+    "description": "Covers AWS, Azure, and multi-cloud deployment.",
+    "skill_level": "Intermediate",
+    "tags": ["cloud", "aws", "azure"]
+  },
+  {
+    "id": "34",
+    "title": "Mobile App Development with Flutter",
+    "provider": "Udemy",
+    "description": "Learn cross-platform development using Flutter and Dart.",
+    "skill_level": "Intermediate",
+    "tags": ["flutter", "mobile", "app-development"]
+  },
+  {
+    "id": "35",
+    "title": "iOS Development with Swift",
+    "provider": "Udemy",
+    "description": "Learn Swift programming and build iOS apps.",
+    "skill_level": "Intermediate",
+    "tags": ["swift", "ios", "app-development"]
+  },
+  {
+    "id": "36",
+    "title": "Android Development with Kotlin",
+    "provider": "Udemy",
+    "description": "Learn Kotlin programming and Android app development.",
+    "skill_level": "Intermediate",
+    "tags": ["kotlin", "android", "app-development"]
+  },
+  {
+    "id": "37",
+    "title": "Reinforcement Learning Specialization",
+    "provider": "Coursera",
+    "description": "Learn RL concepts like Q-learning, policy gradients, and applications.",
+    "skill_level": "Advanced",
+    "tags": ["reinforcement-learning", "ai", "machine-learning"]
+  },
+  {
+    "id": "38",
+    "title": "Generative AI with Large Language Models",
+    "provider": "Coursera",
+    "description": "Learn about transformers, LLMs, and generative AI applications.",
+    "skill_level": "Intermediate",
+    "tags": ["generative-ai", "llm", "transformers"]
+  },
+  {
+    "id": "39",
+    "title": "Prompt Engineering for AI",
+    "provider": "Udemy",
+    "description": "Learn effective prompting strategies for LLMs.",
+    "skill_level": "Beginner",
+    "tags": ["prompt-engineering", "ai", "llm"]
+  },
+  {
+    "id": "40",
+    "title": "Data Engineering with Google Cloud",
+    "provider": "Coursera",
+    "description": "Learn data pipelines, ETL, and warehousing on GCP.",
+    "skill_level": "Intermediate",
+    "tags": ["data-engineering", "cloud", "gcp"]
+  }
+]
